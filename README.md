@@ -1,5 +1,5 @@
 # Veneto-Region-Rivers-Map
-This reporistory has been created for hosting an interactive map created with the qgis2web plugin.
+This reporistory has been created for hosting an interactive map created with the qgis2web plugin. Explore the map here: <a href="https://natermorrin.github.io/Veneto-Region-Rivers-Map/map.html/" target="_blank">Veneto Region Rivers Map</a>
 
 # Map Description
 A map of major rivers and other minor waterways in the Veneto region that drain into the Venice Lagoon. Data includes source, extent, and mouth of waterways as well as the boundaries of the Venice Lagoon and the basins of the Veneto Region.
